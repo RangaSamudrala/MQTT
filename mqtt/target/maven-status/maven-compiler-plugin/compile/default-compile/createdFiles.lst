@@ -1,0 +1,3 @@
+com/samudrala/App.class
+com/samudrala/mqtt/exceptions/ClientException.class
+com/samudrala/mqtt/client/SyncClient.class
